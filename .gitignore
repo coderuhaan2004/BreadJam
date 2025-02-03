@@ -3,6 +3,7 @@
 # =============== #
 # Unity generated #
 # =============== #
+Assets/Animations/Sepsis_Prediction/
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -28,6 +29,8 @@ sysinfo.txt
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+Assets\Animations\Sepsis_Prediction
 
 # ============ #
 # Visual Studio #
