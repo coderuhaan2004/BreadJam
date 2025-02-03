@@ -1,1 +1,3 @@
-# BreadJam
+# Universify
+
+*Universify* is a unique, mind-bending game that blends exploration, puzzle-solving, and storytelling in a universe where the laws of reality constantly shift. Players take on the role of an interdimensional traveler tasked with restoring balance to fractured worlds. Each level presents a **broken** universe—gravity might work sideways, time could flow backward, or entire landscapes might be missing. Using logic, creativity, and a bit of trial and error, players must **fix** these anomalies by solving intricate puzzles and making choices that affect the storyline. The game’s vibrant art style and atmospheric soundtrack pull players into a mesmerizing experience where every decision has cosmic consequences.
