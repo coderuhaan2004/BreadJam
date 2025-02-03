@@ -1,0 +1,8 @@
+Measurement,Low Range,Normal Range,High Range
+Systolic Blood Pressure,<90 mm Hg,<120 mm Hg,≥120 mm Hg
+Diastolic Blood Pressure,<60 mm Hg,<80 mm Hg,≥80 mm Hg
+Body Temperature,<95°F (35°C),97°F to 99°F (36.1°C to 37.2°C),>100.4°F (38°C)
+Respiratory Rate,<12 breaths/minute,12 to 20 breaths/minute,>20 breaths/minute
+Heart Rate,<60 beats/minute,60 to 100 beats/minute,>100 beats/minute
+Oxygen Saturation,<90%,95% to 100%,>100% (may indicate error)
+Oxygen/Gas Total (Inhaled Gas),<21% ambient air,~21% ambient air,>21% (in supplemental oxygen)
